@@ -284,10 +284,10 @@ img {
 
 /*==================== HOME ======================*/
 .home {
-	background: url('../img/bg_image.jpg');
-	background-size: cover;
+	background: url('../img/6367368.jpg');
+	background-size: auto;
 	background-position: center center;
-	height: 100vh;
+	/* height: 100vh; */
 }
 
 .home__container {
@@ -307,8 +307,8 @@ img {
 }
 
 .home__social-icon {
-	font-size: 1.25rem;
-	color: var(--first-color);
+	font-size: 2rem;
+	color: gray;
 }
 
 .home__social-icon:hover {
