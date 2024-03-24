@@ -315,10 +315,7 @@ img {
 	color: var(--first-color-alt);
 }
 
-.home__img {
-	display: none;
-	height: 250px;
-}
+
 
 .home__data {
 	grid-column: 1/3;
